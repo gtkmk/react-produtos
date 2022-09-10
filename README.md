@@ -5,4 +5,5 @@ A funcionalidade de listar os produtos está bugada. Ela lista os produtos receb
 
 Funcionalidade de cadastrar o produto não implementada no front-end.
 
-## Principais motivos dos erros: Má gerencia do tempo e foco em detalhes supérfluos da aplicação.
+## Principais motivos dos erros:
+Má gerencia do tempo e foco em detalhes supérfluos da aplicação.
